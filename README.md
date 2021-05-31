@@ -8,12 +8,12 @@
 <h4> <a href="https://www.linkedin.com/in/sagarkhatri">Socials</a> • <a href="https://devsagarkhatri.github.io/">Website</a> • <a href="https://devsagarkhatri.github.io/#projects">Projects</a> • <a href="https://devsagarkhatri.github.io/#contact">Business Card</a> </h4>
 </div>
 <div>
-- 🔭 I’m currently working on my portfolio project
-- 🌱 I’m currently learning Reactjs and python
-- 👯 I’m looking to collaborate on Reactjs, Python and Java
-- 🤔 I’m looking for help with Three.js
-- 💬 Ask me about Reactjs
-- 📫 How to reach me: You can find me on [![LinkedIn][3.2]][3].
+- 🔭 I’m currently working on my portfolio project<br/>
+- 🌱 I’m currently learning Reactjs and python<br/>
+- 👯 I’m looking to collaborate on Reactjs, Python and Java<br/>
+- 🤔 I’m looking for help with Three.js<br/>
+- 💬 Ask me about Reactjs<br/>
+- 📫 How to reach me: You can find me on [![LinkedIn][3.2]][3]].<br/>
 - ⚡ Fun fact: I'm a healer too
 
 <!-- Resources -->
