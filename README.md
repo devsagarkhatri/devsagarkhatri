@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with Three.js<br/>
 - 💬 Ask me about Reactjs<br/>
 - 📫 How to reach me: You can find me on <a href="https://www.linkedin.com/in/sagarkhatri">Linkedin</a>.<br/>
-- ⚡ Fun fact: I'm a healer too
+
 
 <!-- Resources -->
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
