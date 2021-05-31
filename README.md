@@ -13,10 +13,10 @@
 - 👯 I’m looking to collaborate on Reactjs, Python and Java<br/>
 - 🤔 I’m looking for help with Three.js<br/>
 - 💬 Ask me about Reactjs<br/>
-- 📫 How to reach me: You can find me on [![LinkedIn][3.2]][3]].<br/>
+- 📫 How to reach me: You can find me on  [![LinkedIn][3.2]][3].<br/>
 - ⚡ Fun fact: I'm a healer too
-
+</div>
 <!-- Resources -->
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3]: https://www.linkedin.com/in/heinz-martin/
-</div>
+
