@@ -1,7 +1,7 @@
 
 <div align="center">  
   <br>
-  <h3> Hi there! 👋🤓<br><br>I'm Sagar Khatri<br>a Reactjs Developer, Python Developer, <br>Writer, Designer, and<br> a Student for life</h3>
+  <h3> Hi there! 👋🤓 I'm Sagar Khatri<br>a Reactjs Developer, Python Developer, <br>Writer, Designer, and<br> a Student for life</h3>
 <h4> <a href="https://www.linkedin.com/in/sagarkhatri">Socials</a> • <a href="https://devsagarkhatri.github.io/">Website</a> • <a href="https://devsagarkhatri.github.io/#projects">Projects</a> • <a href="https://devsagarkhatri.github.io/#contact">Business Card</a> </h4>
 </div>
 <div>
