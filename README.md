@@ -15,8 +15,8 @@
 - 💬 Ask me about Reactjs<br/>
 - 📫 How to reach me: You can find me on  [![LinkedIn][3.2]][3].<br/>
 - ⚡ Fun fact: I'm a healer too
-</div>
+
 <!-- Resources -->
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[3]: https://www.linkedin.com/in/heinz-martin/
-
+[3]: https://www.linkedin.com/in/sagarkhatri/
+</div>
