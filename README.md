@@ -1,6 +1,6 @@
 
 <div align="center">    
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%"/>
   <br>
   <h3> Hi there! 👋🤓 I'm Sagar Khatri<br>a Reactjs Developer, Python Developer, <br>Writer, Designer, and<br> a Student for life</h3>
 <h4> <a href="https://www.linkedin.com/in/sagarkhatri">Socials</a> • <a href="https://devsagarkhatri.github.io/">Website</a> • <a href="https://devsagarkhatri.github.io/#projects">Projects</a> • <a href="https://devsagarkhatri.github.io/#contact">Business Card</a> </h4>
