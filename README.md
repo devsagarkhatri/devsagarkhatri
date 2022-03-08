@@ -4,7 +4,12 @@
 <hr margin="0px" padding="0px" color="blue"/>
 <div style="display:inline">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsagarkhatri&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="devsagarkhatri" width="45%" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsagarkhatri&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="devsagarkhatri" width="53%" /></div>
- </div>
+ 
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=devsagarkhatri&theme=tokyonight&hide_border=true" alt="Sagar's Github Streak"/> 
+ 
+<img alt="Sagar Khatri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devsagarkhatri&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
+
+</div>
 
 
 <!-- Resources -->
