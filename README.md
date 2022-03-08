@@ -7,7 +7,7 @@
  
  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=devsagarkhatri&theme=tokyonight&hide_border=true" alt="Sagar's Github Streak"/> 
  
-<img alt="Sagar Khatri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devsagarkhatri&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
+<img alt="Sagar Khatri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devsagarkhatri&bg_color=30,e96443,904e95&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" />
 
 </div>
 
