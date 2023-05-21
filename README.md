@@ -5,7 +5,7 @@
 <div style="display:inline">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devsagarkhatri&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&stroke=2969DD&currStreakNum=347DDD&border=FDFDFD&dates=347DDD&currStreakLabel=347DDD" width="40%" /> &nbsp;<img align="center"  alt="Sagar Khatri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devsagarkhatri&bg_color=ffffff&color=000000&line=2969DD&point=347DDD&area=true&hide_border=true" width="59%"/>
  </div>
-  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/devsagarkhatri/langs)](https://githubtrends.io)
+ 
  <div style="display:inline">  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsagarkhatri&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="devsagarkhatri" width="45%" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsagarkhatri&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="devsagarkhatri" width="53%" />
  </div>
