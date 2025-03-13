@@ -5,7 +5,7 @@
 
  
  <div style="display:inline">  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsagarkhatri&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="devsagarkhatri" width="45%" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsagarkhatri&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="devsagarkhatri" width="53%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsagarkhatri&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="devsagarkhatri" width="100%" />&nbsp;
  </div>
   
 </div>
